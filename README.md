@@ -134,12 +134,6 @@
 
 ---
 
-## 🌍 Visitors
-
-[![](https://visitcount.itsvg.in/api?id=KapilTanwarr&icon=2&color=0)](https://visitcount.itsvg.in)
-
----
-
 ## 🚀 Let's Build Together!
 
 If you're hiring, collaborating, or just curious — feel free to reach out. I love turning data into decisions and ideas into action.  
