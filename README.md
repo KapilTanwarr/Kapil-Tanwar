@@ -1,6 +1,6 @@
 # 👨‍💻 Kapil Tanwar
 
-💡 Data Science Enthusiast | Machine Learning Engineer | AI Strategist
+## 💡 Data Science Enthusiast | Machine Learning Engineer | AI Strategist
 
 ⚡ Fun fact: I love building AI systems that solve real-world problems.
 
